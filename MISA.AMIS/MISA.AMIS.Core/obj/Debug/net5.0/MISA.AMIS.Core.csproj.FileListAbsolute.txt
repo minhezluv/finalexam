@@ -1,0 +1,14 @@
+E:\Thực tập MISA\MISA.Web.CukCuk.Api\MISA.AMIS\MISA.AMIS.Core\bin\Debug\net5.0\MISA.AMIS.Core.deps.json
+E:\Thực tập MISA\MISA.Web.CukCuk.Api\MISA.AMIS\MISA.AMIS.Core\bin\Debug\net5.0\MISA.AMIS.Core.dll
+E:\Thực tập MISA\MISA.Web.CukCuk.Api\MISA.AMIS\MISA.AMIS.Core\bin\Debug\net5.0\ref\MISA.AMIS.Core.dll
+E:\Thực tập MISA\MISA.Web.CukCuk.Api\MISA.AMIS\MISA.AMIS.Core\bin\Debug\net5.0\MISA.AMIS.Core.pdb
+E:\Thực tập MISA\MISA.Web.CukCuk.Api\MISA.AMIS\MISA.AMIS.Core\obj\Debug\net5.0\MISA.AMIS.Core.csproj.AssemblyReference.cache
+E:\Thực tập MISA\MISA.Web.CukCuk.Api\MISA.AMIS\MISA.AMIS.Core\obj\Debug\net5.0\MISA.AMIS.Core.Properties.Resources.resources
+E:\Thực tập MISA\MISA.Web.CukCuk.Api\MISA.AMIS\MISA.AMIS.Core\obj\Debug\net5.0\MISA.AMIS.Core.csproj.GenerateResource.cache
+E:\Thực tập MISA\MISA.Web.CukCuk.Api\MISA.AMIS\MISA.AMIS.Core\obj\Debug\net5.0\MISA.AMIS.Core.GeneratedMSBuildEditorConfig.editorconfig
+E:\Thực tập MISA\MISA.Web.CukCuk.Api\MISA.AMIS\MISA.AMIS.Core\obj\Debug\net5.0\MISA.AMIS.Core.AssemblyInfoInputs.cache
+E:\Thực tập MISA\MISA.Web.CukCuk.Api\MISA.AMIS\MISA.AMIS.Core\obj\Debug\net5.0\MISA.AMIS.Core.AssemblyInfo.cs
+E:\Thực tập MISA\MISA.Web.CukCuk.Api\MISA.AMIS\MISA.AMIS.Core\obj\Debug\net5.0\MISA.AMIS.Core.csproj.CoreCompileInputs.cache
+E:\Thực tập MISA\MISA.Web.CukCuk.Api\MISA.AMIS\MISA.AMIS.Core\obj\Debug\net5.0\MISA.AMIS.Core.dll
+E:\Thực tập MISA\MISA.Web.CukCuk.Api\MISA.AMIS\MISA.AMIS.Core\obj\Debug\net5.0\ref\MISA.AMIS.Core.dll
+E:\Thực tập MISA\MISA.Web.CukCuk.Api\MISA.AMIS\MISA.AMIS.Core\obj\Debug\net5.0\MISA.AMIS.Core.pdb
